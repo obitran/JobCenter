@@ -1,2 +1,3 @@
 # JobCenter
-This is a job center script I wrote based on the existing interface; you can add or remove jobs in the configuration if you wish.
+You can adjust the NPC creation location, Blu-ray discs, and add or remove professions in the config.
+This is a profession center script written based on the redesign interface.
